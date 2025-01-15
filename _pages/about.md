@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, This is Yi-Ping from Taiwan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+I am a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University, supervised by Dr. Wei Chen, and is expected to graduate in 2026. I'm working in <span style="color:purple">I</span>ntegrated <span style="color:purple">DE</span>sign <span style="color:purple">A</span>utomation <span style="color:purple">L</span>aboratory (IDEAL)
+
+My research focuses on addressing the challenges in real-time decision-making for Digital Twin using machine learning. I aim to integrate machine learning models with model predictive control (MPC) to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in design for system-level problems, such as active learning for multi-fidelity modeling and Bayesian Optimization. I hope my research can fill the gaps in the digital twin framework and can push the limit of autonomous systems. 
+
+Before I start my Ph.D. study, I earned several experiences in designing mechanical engineering systems in both theoretical and practical end from my graduate years and my work. In my undergrad, I focused on mechanism design and synthesis for motors and transmission subsystems of electric vehicles using Creative Mechanism Design (CMD) method. Later on, I dived into the domain of "uncertainty quantification" during my M.S. years at NTU. I implemented various statistical tools to estimate the unknown parameters in vehicles, and consequently, proposed a procedure for parameter estimation for generic dynamic systems that consider different uncertainty sources. After graduation,  I became a control engineer in NSIST, participated in aircraft design, and gained practical experience in system design with engineering rigors and realistic considerations. 
+
+I'm enthusiastic about doing research in proposing design methods for optimization in Digital Twin applications and in mentoring students. I’m expected a faculty position back in Taiwan after graduating. Feel free to contact me if you have any questions about our group, my recent work, and chances to collaborate!
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -46,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
