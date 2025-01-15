@@ -21,14 +21,14 @@ repository               : "yiping514/chenyp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile_pic/chenyp_1"
+  name             : "Yi-Ping Chen 陳怡平"
+  pronouns         : "he/his/him"  
+  bio              : "Husband, Christian, a Researcher in Design Optimization and Digital Twin"
+  location         : "Evanston, IL, USA"
+  employer         : "Northwestern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenyp@u.northwestern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
