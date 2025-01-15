@@ -16,7 +16,7 @@ In the rest of my Ph.D., I will dive deep into the decision-making for Digital T
 :airplane: I was a full-time R&D engineer in aerospace industry 
 ------
 
-I was working at National Chung-Shan Institute of Science and Technology ([NCSIST](https://www.ncsist.org.tw/eng/csistdup/main/Default.aspx)) for 16 months as a full-time engineer. My team, the control law design team under the Flight Control Group within the Aeronautical Research Laboratory, is the leading research team in developing the next generation fighters. It is clear that I cannot reveal too much details, but let me tell you: It was cool to be a part of the development of such a complex system! I was working on maintaining the 6-D dynamical model of the aircrafts and address the model discrepancy with data-driven methods. Anyway, I cannot tell too much!
+I was working at <span style="color:green">National Chung-Shan Institute of Science and Technology</span> ([NCSIST](https://www.ncsist.org.tw/eng/csistdup/main/Default.aspx)) for 16 months as a full-time engineer. My team, the control law design team under the Flight Control Group within the Aeronautical Research Laboratory, is the leading research team in developing the next generation fighters. It is clear that I cannot reveal too much details, but let me tell you: It was cool to be a part of the development of such a complex system! I was working on maintaining the 6-D dynamical model of the aircrafts and address the model discrepancy with data-driven methods. Anyway, I cannot tell too much!
 
 :mortar_board: I got my M.S. Degree in MechE, too! 
 ------
