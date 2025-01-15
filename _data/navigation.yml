@@ -6,13 +6,13 @@
 
 main:
   -title: "News"
-    url: /news
+    url: /news/
   
   - title: "Edu. & Exp."
-    url: /edu_exp
+    url: /edu_exp/
 
   - title: "Research"
-    url: /research
+    url: /research/
 
   - title: "Publications"
     url: /publications/
