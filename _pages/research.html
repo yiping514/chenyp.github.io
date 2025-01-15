@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: ""
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
 
-Digital Twin
-======
 
-<img src="chenyp.github.io/research/DT.svg" alt="An AI-centric Digital Twin: an example in additive manufacturing" width="500" />
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
