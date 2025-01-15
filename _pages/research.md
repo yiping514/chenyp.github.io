@@ -9,6 +9,5 @@ author_profile: true
 Digital Twin
 ======
 
-<img src="_research/DT.svg" alt="An AI-centric Digital Twin: an example in additive manufacturing" width="500" />
-
+<img src="chenyp.github.io_research/DT.svg" alt="An AI-centric Digital Twin: an example in additive manufacturing" width="500" />
 
