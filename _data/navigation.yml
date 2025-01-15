@@ -12,7 +12,7 @@ main:
     url: /edu_exp/
 
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
