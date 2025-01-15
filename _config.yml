@@ -21,7 +21,7 @@ repository               : "yiping514/chenyp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic/chenyp_1"
+  avatar           : "profile_pic/chenyp_1.png"
   name             : "Yi-Ping Chen 陳怡平"
   pronouns         : "he/his/him"  
   bio              : "Husband, Christian, a Researcher in Design Optimization and Digital Twin"
