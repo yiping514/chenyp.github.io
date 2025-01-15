@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+Me, currently a Ph.D. Student
+======
 
-I am a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University, supervised by Dr. Wei Chen, and is expected to graduate in 2026. I'm working in <span style="color:purple">I</span>ntegrated <span style="color:purple">DE</span>sign <span style="color:purple">A</span>utomation <span style="color:purple">L</span>aboratory (IDEAL)
+I am a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University, supervised by Dr. Wei Chen, and is expected to graduate in 2026. I'm in the third year of my Ph.D., working with the most incredible people from <span style="color:purple">**I**</span>ntegrated <span style="color:purple">**DE**</span>sign <span style="color:purple">**A**</span>utomation <span style="color:purple">**L**</span>aboratory ([IDEAL](https://ideal.mech.northwestern.edu/)). 
 
-My research focuses on addressing the challenges in real-time decision-making for Digital Twin using machine learning. I aim to integrate machine learning models with model predictive control (MPC) to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in design for system-level problems, such as active learning for multi-fidelity modeling and Bayesian Optimization. I hope my research can fill the gaps in the digital twin framework and can push the limit of autonomous systems. 
+My research focuses on using data-driven methods to addressing the challenges in **Digital Twin** and **Design Optimization under Uncertainty**. For instance, I'm interested in integrating machine learning to perform real-time decision-making for Digital Twin systems. I integrate machine learning models with **model predictive control (MPC)** to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in design optimization for system-level problems and process optimization, in particular in small data problems using **Bayesian Optimization**. This includes active learning for multi-fidelity modeling and optimization for material fabrication processes. 
+
+Me, Before I became a Ph.D. student
+------
 
 Before I start my Ph.D. study, I earned several experiences in designing mechanical engineering systems in both theoretical and practical end from my graduate years and my work. In my undergrad, I focused on mechanism design and synthesis for motors and transmission subsystems of electric vehicles using Creative Mechanism Design (CMD) method. Later on, I dived into the domain of "uncertainty quantification" during my M.S. years at NTU. I implemented various statistical tools to estimate the unknown parameters in vehicles, and consequently, proposed a procedure for parameter estimation for generic dynamic systems that consider different uncertainty sources. After graduation,  I became a control engineer in NSIST, participated in aircraft design, and gained practical experience in system design with engineering rigors and realistic considerations. 
 
