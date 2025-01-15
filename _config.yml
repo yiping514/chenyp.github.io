@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Yi-Ping Chen"
 description              : &description "personal description"
 url                      : https://yiping514.github.io/chenyp.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/chenyp.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "yiping514/chenyp.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
