@@ -17,9 +17,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "Talks"
     url: /talks/    
          
   - title: "CV"
-    url: /cv/
+    url: /files/CV_chenyp.pdf
     
