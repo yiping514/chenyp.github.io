@@ -21,6 +21,10 @@ author_profile: true
 
 <div class="wordwrap" style="font-size: 32px; font-weight: bold;">Peer-Reviewed Conference Paper</div>
 
+{% for post in site.publications_conf_full reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!-- 
 {% include base_path %}
 
