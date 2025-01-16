@@ -10,19 +10,16 @@ author_profile: true
 {% endif %} -->
 
 <div class="wordwrap">Here, you can check out my <a href="#journal">Journal Articles</a>, <a href="#conf_full">Peer-Reviewed Conference Paper</a>, and Conference Presentation with Abstract. You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-
+<br>
+<br>
 <div id="journal" style="font-size: 32px; font-weight: bold;">Journal Article</div>
-
 {% include base_path %}
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <div id="conf_full" style="font-size: 32px; font-weight: bold; font-style: normal;">Peer-Reviewed Conference Paper</div>
-
 {% include base_path %}
-
 {% for post in site.publications_conf_full reversed %}
   {% include archive-single.html %}
 {% endfor %}
