@@ -1,9 +1,3 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
 main:
   - title: "About Me"
     url: /about_me/
@@ -18,14 +12,19 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
+    dropdown:  # Add dropdown key to define sub-links
+      - title: "Journal Articles"
+        url: /publications/
+      - title: "Conference Full-Papers"
+        url: /publications_conference_full_papers/
+      - title: "Conference Abstracts"
+        url: /publications_conference_abstracts/
 
   - title: "Awards"
     url: /awards/
 
   - title: "Talks"
     url: /talks/    
-         
+
   - title: "CV"
     url: /files/CV_chenyp.pdf
-    

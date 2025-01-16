@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 :man_student: My Ph.D. is all about...
+-----
 
 My research focuses on using data-driven methods to addressing the challenges in <span style="color:purple">**Digital Twin**</span> and <span style="color:purple">**Design Optimization under Uncertainty**</span>. For instance, I integrates machine learning as a surrogate model to replace the complex system model, and develop algorithms for the real-time decision-making for Digital Twin systems, such as <span style="color:purple">**model predictive control (MPC)**</span>, to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in sequential optimization and active learning for system-level problems and process optimization. In particular, I work with small data problems using <span style="color:purple">**Bayesian Optimization**</span>. where a sampling and data collection rule is developed to make the best use of every information collected, and maximize the efficiency of sampling for optimization problems.  
 
