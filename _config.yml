@@ -222,6 +222,9 @@ collections:
   publications_conf_full:
     output: true
     permalink: /:collection/:path/
+  publications_conf_abs:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -272,6 +275,15 @@ defaults:
   - scope:
       path: ""
       type: publications_conf_full
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications_conf_abs
+  - scope:
+      path: ""
+      type: publications_conf_abs
     values:
       layout: single
       author_profile: true
