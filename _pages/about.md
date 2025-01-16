@@ -10,21 +10,7 @@ redirect_from:
 This is Yi-Ping, from Kaohsiung, Taiwan :taiwan:. I am currently a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University, supervised by Dr. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html), and is expected to graduate in 2026. I'm in the third year of my Ph.D., working with the most incredible people from <span style="color:purple">**I**</span>ntegrated <span style="color:purple">**DE**</span>sign <span style="color:purple">**A**</span>utomation <span style="color:purple">**L**</span>aboratory ([IDEAL](https://ideal.mech.northwestern.edu/)). 
 
 
-My research focuses on using data-driven methods to addressing the challenges in <span style="color:purple">**Digital Twin**</span> and <span style="color:purple">**Design Optimization under Uncertainty**</span>. For instance, I integrates machine learning as a surrogate model to replace the complex system model, and develop algorithms for the real-time decision-making for Digital Twin systems, such as <span style="color:purple">**model predictive control (MPC)**</span>, to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in sequential optimization and active learning for system-level problems and process optimization. In particular, I work with small data problems using <span style="color:purple">**Bayesian Optimization**</span>. where a sampling and data collection rule is developed to make the best use of every information collected, and maximize the efficiency of sampling for optimization problems.  
 
-In the rest of my Ph.D., I will dive deep into the decision-making for Digital Twin systems, developing methods for systems with heterogenous data structure, handling emergent behaviors, and adaptations/resilience in machine intellligence. 
-
-:airplane: I was a full-time R&D engineer in aerospace industry 
-------
-
-I was working at <span style="color:green">National Chung-Shan Institute of Science and Technology</span> ([NCSIST](https://www.ncsist.org.tw/eng/csistdup/main/Default.aspx)) for 16 months as a full-time engineer. My team, the control law design team under the Flight Control Group within the Aeronautical Research Laboratory, is the leading research team in developing the next generation fighters. It is clear that I cannot reveal too much details, but let me tell you: It was cool to be a part of the development of such a complex system! I was working on maintaining the 6-D dynamical model of the aircrafts and address the model discrepancy with data-driven methods. Anyway, I cannot tell too much!
-
-:mortar_board: I got my M.S. Degree in MechE, too! 
-------
-
-I received my M.S. Degree from the MechE Department in National Taiwan University in 2020. As a part of <span style="color:blue">**S**</span>ystem <span style="color:blue">**O**</span>ptimization <span style="color:blue">**LAB**</span>oratory ([SOLAB](https://solab-ntu.github.io/))
-
-I'm enthusiastic about doing research in proposing design methods for optimization in Digital Twin applications and in mentoring students. I’m expected a faculty position back in Taiwan after graduating. Feel free to contact me if you have any questions about our group, my recent work, and chances to collaborate!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
