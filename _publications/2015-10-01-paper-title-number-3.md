@@ -1,8 +1,8 @@
 ---
 title: "Paper Title Number 3"
-collection: publications_journals
+collection: publications
 category: manuscripts
-permalink: /publication_journals/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'

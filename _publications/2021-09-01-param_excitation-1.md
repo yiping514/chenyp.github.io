@@ -1,8 +1,8 @@
 ---
 title: "Unknown Parameter Excitation and Estimation for Complex Systems With Dynamic Performances"
-collection: publications_journals
+collection: publications
 category: manuscripts
-permalink: /publication_journals/2021-09-01-unknown_parameter_excitation-1
+permalink: /publication/2021-09-01-unknown_parameter_excitation-1
 excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/method_flow_chart.png'>"
 date: 2021-09-01
 venue: 'Journal of Mechanical Design'
