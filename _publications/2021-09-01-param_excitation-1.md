@@ -11,8 +11,14 @@ paperurl: 'https://yiping514.github.io/chenyp.github.io/files/2021_JMD_param_exc
 citation: 'Chen, Yi-Ping, and Kuei-Yuan Chan. &quot;Unknown Parameter Excitation and Estimation for Complex Systems With Dynamic Performances.&quot; <i>Journal of Mechanical Design<i> 143.9 (2021): 091704.'
 ---
 
-In this research, we proposed a dynamic model validation to provide accurate parameter settings for minimal output errors between simulation models and real model experiments. The optimal operations for setting parameters is developed to maximize the effects by specific model parameters while minimizing interactions. To manage the excessive costs associated with simulations of complex systems, we propose a procedure with three main features: the optimal excitation based on global sensitivity analysis (GSA) is done via metamodel techniques, for estimating parameters with the polynomial chaos-based Kalman filter, and validating the updated model based on hypothesis testing. An illustrative mathematical model was used to demonstrate the detail processes in our proposed method. We also apply our method on a vehicle dynamic case with a composite maneuver for exciting unknown model parameters such as inertial and coefficients of tire model; the unknown model parameters were successfully estimated within a 95\% credible interval. The contributions of this research are also underscored through multiple cases.
+
+
+In this research, we proposed a dynamic model validation to provide accurate parameter settings for minimal output errors between simulation models and real model experiments. The optimal operations for setting parameters is developed to maximize the effects by specific model parameters while minimizing interactions. To manage the excessive costs associated with simulations of complex systems, we propose a procedure with three main features: the optimal excitation based on global sensitivity analysis (GSA) is done via metamodel techniques, for estimating parameters with the polynomial chaos-based Kalman filter, and validating the updated model based on hypothesis testing. An illustrative mathematical model was used to demonstrate the detail processes in our proposed method. We also apply our method on a vehicle dynamic case with a composite maneuver for exciting unknown model parameters such as inertial and coefficients of tire model; the unknown model parameters were successfully estimated within a 95% credible interval. The contributions of this research are also underscored through multiple cases.
 
 Keywords: _Model Validation, Excitation, Parameter Estimation, Maneuver Design, Global Sensitivity Analysis, Kriging, DACE, Kalman Filter_
+
+"<img src='https://yiping514.github.io/chenyp.github.io/_publications/JMD_excitation_fig1.png'>"
+
+
 
 
