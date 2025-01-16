@@ -17,7 +17,7 @@ In this research, we proposed a dynamic model validation to provide accurate par
 
 Keywords: _Model Validation, Excitation, Parameter Estimation, Maneuver Design, Global Sensitivity Analysis, Kriging, DACE, Kalman Filter_
 
-"<img src='https://yiping514.github.io/chenyp.github.io/_publications/JMD_excitation_fig1.png'>"
+"<img src='https://yiping514.github.io/chenyp.github.io/publications/JMD_excitation_fig1.png'>"
 
 
 
