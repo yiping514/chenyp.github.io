@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
-<div class="wordwrap">Here, you can check out my Journal Articles, Peer-Reviewed Conference Paper (full paper), and Conference Presentation with Abstract.</div>
+<div class="wordwrap">Here, you can check out my <a href="#journal">Journal Articles</a>, <a href="#conf_full">Peer-Reviewed Conference Paper</a>, and Conference Presentation with Abstract. You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-<div style="font-size: 32px; font-weight: bold;">Journal Article</div>
+<div id="journal" style="font-size: 32px; font-weight: bold;">Journal Article</div>
 
 {% include base_path %}
 
@@ -19,7 +19,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<div style="font-size: 32px; font-weight: bold; font-style: normal;">Peer-Reviewed Conference Paper</div>
+<div id="conf_full" style="font-size: 32px; font-weight: bold; font-style: normal;">Peer-Reviewed Conference Paper</div>
 
 {% include base_path %}
 
