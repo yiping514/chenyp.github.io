@@ -15,17 +15,17 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications_journals reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<div class="wordwrap" style="font-size: 32px; font-weight: bold;">Peer-Reviewed Conference Paper</div>
+<!-- <div class="wordwrap" style="font-size: 32px; font-weight: bold;">Peer-Reviewed Conference Paper</div>
 
 {% include base_path %}
 
 {% for post in site.publications_conf_full reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
