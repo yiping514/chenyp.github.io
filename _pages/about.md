@@ -9,9 +9,14 @@ redirect_from:
 
 This is Yi-Ping, from Kaohsiung, Taiwan :taiwan:. I am currently a Ph.D. candidate in the Department of Mechanical Engineering at Northwestern University, supervised by Dr. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html), and is expected to graduate in 2026. I'm in the third year of my Ph.D., working with the most incredible people from <span style="color:purple">**I**</span>ntegrated <span style="color:purple">**DE**</span>sign <span style="color:purple">**A**</span>utomation <span style="color:purple">**L**</span>aboratory ([IDEAL](https://ideal.mech.northwestern.edu/)). 
 
+
+:::{dropdown} ##About My Ph.D.
 My research focuses on using data-driven methods to addressing the challenges in <span style="color:purple">**Digital Twin**</span> and <span style="color:purple">**Design Optimization under Uncertainty**</span>. For instance, I integrates machine learning as a surrogate model to replace the complex system model, and develop algorithms for the real-time decision-making for Digital Twin systems, such as <span style="color:purple">**model predictive control (MPC)**</span>, to demonstrate a set of tools that performs efficient, reliable, and online adaptable decision-making. Further, I’m also interested in sequential optimization and active learning for system-level problems and process optimization. In particular, I work with small data problems using <span style="color:purple">**Bayesian Optimization**</span>. where a sampling and data collection rule is developed to make the best use of every information collected, and maximize the efficiency of sampling for optimization problems.  
 
 In the rest of my Ph.D., I will dive deep into the decision-making for Digital Twin systems, developing methods for systems with heterogenous data structure, handling emergent behaviors, and adaptations/resilience in machine intellligence. 
+:::
+
+
 
 :airplane: I was a full-time R&D engineer in aerospace industry 
 ------
