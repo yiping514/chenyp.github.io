@@ -9,19 +9,17 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Journal Articles</title>
-</html>
+<div class="wordwrap">Here, you can check out my Journal Articles, Peer-Reviewed Conference Paper (full paper), and Conference Presentation with Abstract.</div>
+
+<div class="wordwrap" style="font-size: 32px; font-weight: bold;">Journal Article</div>
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<div class="wordwrap" style="font-size: 32px; font-weight: bold;">Peer-Reviewed Conference Paper</div>
 
 <!-- New style rendering if publication categories are defined
 {% if site.publication_category %}
