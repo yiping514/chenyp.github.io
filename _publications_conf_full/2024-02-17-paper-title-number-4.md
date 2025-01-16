@@ -1,6 +1,6 @@
 ---
 title: "Paper Title Number 4"
-collection: publications_conf_full
+collection: publications
 category: conferences
 permalink: /publications_conf_full/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
