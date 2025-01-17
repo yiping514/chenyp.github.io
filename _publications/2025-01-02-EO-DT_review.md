@@ -2,7 +2,7 @@
 title: "An Optimization-Centric Review on Integrating Artificial Intelligence and Digital Twin Technologies in Manufacturing"
 collection: publications
 category: manuscripts
-permalink: /publications/2025-01-02-EO_DT_AI_review
+permalink: /publications/2025-01-02-EO-DT_review
 excerpt: '<img src='https://yiping514.github.io/chenyp.github.io/images/EO_DT_review.png'>'
 date: 2025-01-02
 venue: 'Engineering Optimization'
