@@ -3,7 +3,7 @@ title: "A Latent Variable Approach for Non-Hierarchical Multi-Fidelity Adaptive 
 collection: publications
 category: manuscripts
 permalink: /publications/2024-01-10-CMAME-mufasa-2
-excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/CMAME_mufasa.pdf'>"
+excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/CMAME_mufasa.png'>"
 date: 2021-09-01
 venue: 'Computational Methods for Applied Mechanics and Engineering'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
@@ -15,7 +15,7 @@ We propose an MF adaptive sampling framework hinged on a latent embedding for di
 
 Keywords: _Multi-Fidelity, Gaussian Process, Latent Variable, Adaptive Sampling, Active Learning, Pre-Posterior Analysis, Global Modeling, Bayesian Optimization, Benefit-aware_
 
-<img src="https://yiping514.github.io/chenyp.github.io/images/CMAME_mufasa.pdf" alt="Proposed framework for multi-fidelity adaptive sampling (MuFASa).">
+<img src="https://yiping514.github.io/chenyp.github.io/images/CMAME_mufasa.png" alt="Proposed framework for multi-fidelity adaptive sampling (MuFASa).">
 
 
 
