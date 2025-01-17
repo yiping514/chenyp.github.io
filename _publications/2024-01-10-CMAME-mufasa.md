@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2024-01-10-CMAME-mufasa-2
 excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/CMAME_mufasa.png'>"
-date: 2021-09-01
+date: 2024-01-10
 venue: 'Computational Methods for Applied Mechanics and Engineering'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://yiping514.github.io/chenyp.github.io/files/2024_CMAME_mufasa.pdf'
