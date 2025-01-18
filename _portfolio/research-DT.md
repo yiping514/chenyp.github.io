@@ -6,7 +6,7 @@ collection: portfolio
 
 <img src='https://yiping514.github.io/chenyp.github.io/images/DT.svg'>
 
-Digital twin research focuses on creating virtual replicas of physical systems, processes, or objects that enable real-time simulation, monitoring, and analysis. By integrating data from sensors, IoT devices, and advanced analytics, digital twins provide a dynamic, data-driven approach to understanding and optimizing complex systems. My research centers on leveraging digital twin technology for system design, performance optimization, and lifecycle management, with an emphasis on enhancing decision-making and predictive capabilities. Through the integration of AI, machine learning, and real-time data, I aim to develop innovative solutions that bridge the gap between physical and digital domains, driving efficiency and innovation in engineering and beyond.
+Digital Twin research focuses on creating virtual replicas of physical systems, processes, or objects that enable real-time simulation, monitoring, and analysis. By integrating data from sensors, IoT devices, and advanced analytics, digital twins provide a dynamic, data-driven approach to understanding and optimizing complex systems. My research centers on leveraging Digital Twin technology for system design, performance optimization, and lifecycle management, with an emphasis on enhancing decision-making and predictive capabilities. Through the integration of AI, machine learning, and real-time data, I aim to develop innovative solutions that bridge the gap between physical and digital domains, driving efficiency and innovation in engineering and beyond.
 
 
 ### Journal Articles
