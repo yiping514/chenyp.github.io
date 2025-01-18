@@ -11,7 +11,7 @@ Digital twin research focuses on creating virtual replicas of physical systems, 
 
 ### Journal Articles
 
-[Karkaria, V., Tsai, Y. K., **Chen, Y. P.**, & Chen, W., "An Optimization-Centric Review on Integrating Artificial Intelligence and Digital Twin Technologies in Manufacturing" _Engineering Optimization_, 1-47 (2025).](https://yiping514.github.io/chenyp.github.io/publications/2025-01-02-EO-DT_review)
+[Karkaria, V., Tsai, Y. K., **Chen, Y. P.**, & Chen, W., "An Optimization-Centric Review on Integrating Artificial Intelligence and Digital Twin Technologies in Manufacturing", _Engineering Optimization_, 1-47 (2025).](https://yiping514.github.io/chenyp.github.io/publications/2025-01-02-EO-DT_review)
 
 
 
