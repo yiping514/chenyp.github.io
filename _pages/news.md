@@ -5,10 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 
-Yi-Ping passed Proposal Exam!
+Yi-Ping passed Dissertation Proposal Exam!
 =====
 
-> [name=Yi-Ping Chen ][time=25, Nov, 2024]
+> Nov. 25, 2024
 
 Yi-Ping passed his dissertation prooposal, approved by his committee members Dr. Wei Chen, Dr. Jian Cao, Dr. Robert X. Gao, Dr. Daniel Apley, and Dr. Todd Murphey. 
 
