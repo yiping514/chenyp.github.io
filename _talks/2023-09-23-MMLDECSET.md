@@ -1,7 +1,7 @@
 ---
 title: "Data Fusion of Multi-fidelity Systems via Latent Variable Gaussian Process for Active Learning Applications"
 collection: talks
-type: "Talk"
+type: "Conference Presentation"
 permalink: /talks/2023-09-23-MMLDECSET
 venue: "2nd IACM MMLDE-CSET"
 date: 2023-09-23
