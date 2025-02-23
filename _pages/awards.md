@@ -13,7 +13,7 @@ Receved for outstanding research potential and academic performance. It covers s
 * **2022 Walter-Murphy Scholarship**, _The Graduate School, NU_ \\
 Received as I got accepted by Northwestern. It provided to sponser outstanding Ph.D. applicants for their 1st. 
 
-## Research Awards
+## Outstanding Research Awards
 * **2021 17th HIWIN Master's Thesis Award, Honorable Mention**, _HIWIN Corp._ \\
 Received this award with USD $3500. This is the highest master's thesis award in the M.E. field in Taiwan. 
 * **2020 Matlab Research Competition, Best Paper Award**, _Mathworks_ \\
@@ -26,6 +26,9 @@ Awarded to the top 5% thesis in the School of Engineering.
 ## Academic Performance (GPA-based)
 * **2018 Phi Tau Phi Honor**, _NCKU_ \\
 Awarded to the top 1% students in academic performance from each department.
+
+* **2015-2018 Dean's List**, _NCKU_ \\
+Awarded to the top 10% students in the class every once a year.
 
 ## Conference Traveling Grant
 * **2023 NSF Fellowship Award for traveling grant at 2nd IACM MMLDE-CSET conference**

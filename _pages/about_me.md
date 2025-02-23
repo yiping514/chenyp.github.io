@@ -5,6 +5,10 @@ permalink: /about_me/
 author_profile: true
 ---
 
+I'm an enthusiastic person who loves problem solving with domain knowledge, inspiring people to pursue something great, and enjoying the process of helping people fulfill their dreams.  I believe the only way to maximize the power of knowledge is through sharing, so I have been preparing myself to become a faculty member in Taiwan to serve as a mentor, an advisor, and an helper to provide opportunities for highly motivated people to learn how to define and achieve their dreams. 
+
+
+
 :man_student: My Ph.D. is all about...
 -----
 
@@ -24,4 +28,12 @@ I was working at <span style="color:green">**National Chung-Shan Institute of Sc
 I received my M.S. Degree from the MechE Department in National Taiwan University in 2020. As a part of <span style="color:blue">**S**</span>ystem <span style="color:blue">**O**</span>ptimization <span style="color:blue">**LAB**</span>oratory ([SOLAB](https://solab-ntu.github.io/)), I started to build my knowledge in design optimization, design under uncertainty, and data-driven design. Initially, we were developing an autonomous bus from scratch, and I was in charge of the failure systems. However, as we moved on, we realized that the model of the vehicle is the core of this system, while we are still far away from calibrating it. Therefore, I started to work on the excitation and estimation of uncertaint parameters in the vehicle as my master thesis. It was not an easiy research since I have to build a vehicle model in Simulink (it took me 6 months!) and developed a series of methods. Well, I'm glad these effort paid back -- I publish a journal paper for the first time of my life, and won 3 huge master thesis awards, which likely became the most important piece of my Ph.D. application package. Anyway, I enjoyed the life, the people, the advisor, and the research environment here. It was a pleasent journey. 
 
 
+:newspaper: Articles
+------
 
+I enjoy sharing and archiving my effort and experience in different stages, and hope they can be a reference for others who is planning on chasing the same dream!
+
+**Ph.D. Application Series**
+* [My Journey on TOEFL: How I Got 106 in One Trial](https://hackmd.io/bBUruFEWRpun8oP1USn0Lg)
+* [My Self-Study Journey + Open-Source Material for Concurring GRE](https://hackmd.io/yg-pefAgTk2HOGCNN-D0FQ)
+* [My Ph.D. Application Journey: Motivation, Documents, Reaching Out, and Interview](https://hackmd.io/PI4AiHXwQPilbMTuHBOBqQ#申請文件預備)
