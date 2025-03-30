@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-Yi-Ping's conference paper to NAMRC 53 was recommended for fast-tracking to Journal of Manufacturing System!
+Yi-Ping's conference paper to NAMRC 53 was recommended for fast-tracking to Journal of Manufacturing Systems!
 ========
 
 > Mar. 10, 2025
 
-Yi-Ping's paper, titled "Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks", was considered a high-quality work, and was recommended by the Scientific Committee of NAMRC 53 for fast-tracking to Journal of Manufacturing Systen! 
+Yi-Ping's paper, titled "Real-Time Decision-Making for Digital Twin in Additive Manufacturing with Model Predictive Control using Time-Series Deep Neural Networks", was considered a high-quality work, and was recommended by the Scientific Committee of NAMRC 53 for fast-tracking to Journal of Manufacturing Systems! 
 
 From historical stats, only less than 20 papers would be fast-tracked to Journal of Manufacturing Systems/Journal of Manufacturing Process. It is a great honor!
 
