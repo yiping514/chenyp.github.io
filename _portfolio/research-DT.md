@@ -11,6 +11,9 @@ Digital Twin research focuses on creating virtual replicas of physical systems, 
 
 ### Journal Articles
 
+[**Chen, Y.-P.**, Karkaria, V., Tsai, Y.-K., Rolark, F., Quispe, D., Gao, R. X., Cao, J., & Chen, W., "Real-time decision-making for Digital Twin in additive manufacturing with Model Predictive Control using time-series deep neural networks" _Journal of Manufacturing Systems_, 80(2025): 412-424.'](https://yiping514.github.io/chenyp.github.io/publications/2025-03-29-JMS-MPC_DED)
+
+
 [Karkaria, V., Tsai, Y. K., **Chen, Y. P.**, & Chen, W., "An Optimization-Centric Review on Integrating Artificial Intelligence and Digital Twin Technologies in Manufacturing", _Engineering Optimization_, 1-47 (2025).](https://yiping514.github.io/chenyp.github.io/publications/2025-01-02-EO-DT_review)
 
 
