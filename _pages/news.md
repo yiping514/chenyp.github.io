@@ -5,6 +5,17 @@ permalink: /news/
 author_profile: true
 ---
 
+
+Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral Fellowship by the Department of Mechanical Engineering in Northwestern University!
+=========
+
+> May. 27, 2025
+
+Nominated by Professor Wei Chen and Professor Jian Cao, Yi-Ping is selected as one of the four recipients of the Martin Outstanding Doctoral Fellowship, the most prestigious mid-career doctoral fellowship in the department, based on his exceptional accomplishments in research and academics. 
+
+
+
+
 Yi-Ping has been accepted into the 2025 Management for PhDs Certificate Program offered by Kellogg School of Management. 
 =========
 
