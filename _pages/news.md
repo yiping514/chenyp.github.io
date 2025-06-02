@@ -11,7 +11,7 @@ Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral 
 
 > May. 27, 2025
 
-Nominated by Professor Wei Chen and Professor Jian Cao, Yi-Ping is selected as one of the four recipients of the Martin Outstanding Doctoral Fellowship, the most prestigious mid-career doctoral fellowship in the department, based on his exceptional accomplishments in research and academics. 
+Nominated by Professor Wei Chen and Professor Jian Cao, Yi-Ping is selected as one of the four recipients of the Martin Outstanding Doctoral Fellowship. The Martin Fellowship recognizes mid-career Ph.D. candidates for their outstanding scholarly and research achievements in mechanical engineering and encourage these young researchers to establish themselves as future leaders in their respective fields. Fellowship selectios were made by the ME faculty Committee of Graduate Studies. 
 
 
 
