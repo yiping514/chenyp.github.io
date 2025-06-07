@@ -5,8 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 
+Yi-Ping is awarded the Inaugural Mentorship Award by the Department Mechanical Engineering at Northwestern University!
+=========
 
-Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral Fellowship by the Department of Mechanical Engineering in Northwestern University!
+Nominated by Professor Wei Chen, Yi-Ping is awarded the Mentorship Award by the Department. The M.E. Department recognizes his effort in mentoring prospective Ph.D. students for their doctoral study applications, mentorship on junior graduate students and undergraduate students, and dedication in helping incoming Ph.D. students for smooth transitions. 
+
+> Jun. 06, 2025
+
+
+Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral Fellowship by the Department of Mechanical Engineering at Northwestern University!
 =========
 
 > May. 27, 2025
@@ -25,7 +32,7 @@ Yi-Ping has been accepted into the Management for PhDs program offered by Kellog
 
 
 
-Yi-Ping has been sekected to receive the National Science Foundation (NSF) Conference Registration Support Award for NAMRC 53!
+Yi-Ping has been selected to receive the National Science Foundation (NSF) Conference Registration Support Award for NAMRC 53!
 =========
 
 >Apr. 26, 2025
