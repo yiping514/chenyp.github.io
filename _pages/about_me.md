@@ -25,6 +25,18 @@ I was working at <span style="color:green">**National Chung-Shan Institute of Sc
 
 I received my M.S. Degree from the MechE Department in National Taiwan University in 2020. As a part of <span style="color:blue">**S**</span>ystem <span style="color:blue">**O**</span>ptimization <span style="color:blue">**LAB**</span>oratory ([SOLAB](https://solab-ntu.github.io/)), I started to build my knowledge in design optimization, design under uncertainty, and data-driven design. Initially, we were developing an autonomous bus from scratch, and I was in charge of the failure systems. However, as we moved on, we realized that the model of the vehicle is the core of this system, while we are still far away from calibrating it. Therefore, I started to work on the excitation and estimation of uncertain parameters in the vehicle as my master’s thesis. It was not an easy research since I had to build a vehicle model in Simulink (it took me 6 months!) and developed a series of methods. Well, I'm glad these efforts paid back -- I published a journal paper for the first time of my life, and won 3 huge master thesis awards, which likely became the most important piece of my Ph.D. application package. Anyway, I enjoyed the life, the people, the advisor, and the research environment here. It was a pleasant journey. 
 
+
+🎮: Hobbies
+------
+Outside of research, I enjoy...
+* Sitcoms: Friends, The Big Bang Theory, How I Met Your Mother, Modern Family, Brooklyn 99.
+* Comedy TV Series: Ted Losso, The Only Murder in the Building, The Good Place.
+* Sports: Professional Basketball in US and Taiwan, hooping every week.
+* Collections: I love collecting Legos, especially semi-mechanical series and Speed Champions.
+* Music: Harmonical Solo, a drummmer on the worship team for > 20 years.
+* Traveling: A nature person. I enjoy the national parks, e.g. Grand Canyon, Yosemite, Rocky Mountain, Yellow Stone
+* Photography: I love capturing big moments for my friends, and has experience in shooting engagement, wedding, recitals, etc, as an amature photgrapher. 
+
 :newspaper: Articles
 ------
 
