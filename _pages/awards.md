@@ -8,7 +8,7 @@ author_profile: true
 ## Merit-Based Awards
 * **2022-2026 Taiwan-Northwestern University Scholarship**, _Ministry of Education in Taiwan_ \\
 Received before starting Ph.D. program. This is a package that covers half of my expenses of doctoral study for four years. 
-* **2025 Martin Outstanding Doctoral Fellowship**, _Department of Mechanical Engineering, Northwestern University_ \\
+* **2025 Martin Outstanding Doctoral Fellowship**, _Department of Mechanical Engineering, NU_ \\
 Selected as one of the four recipients out of the entire department for this mid-career fellowship
 * **2023 Predictive Science & Engineering Design (PSED) Fellow**, _The Graduate School, NU_ \\
 Receved for outstanding research potential and academic performance. It covers some of my expenses in Ph.D. program for a year, and offered a collaborative platform to encourage student working on projects related to design problems with optimization tools. 
@@ -40,7 +40,7 @@ Awarded to the top 10% students in the class every once a year.
 * **2023 NSF Fellowship Award for the Traveling Grant to 2nd IACM MMLDE-CSET conference**
 
 ## Service Awards
-* **2025 Inaugural Mentorship Award**, Department of Mechanical Engineering, Northwestern University \\
+* **2025 Inaugural Mentorship Award**, Department of Mechanical Engineering, NU \\
  This award recognizes students who have distinguished themselves through mentorship of more junior PhD students, MS students, undergraduates, or high school students.
 * **2020 Outstanding TA** (Unofficial), _NTU_ \\
 Recognized as an outstanding TA and be invited as a speaker at the TA workshop.
