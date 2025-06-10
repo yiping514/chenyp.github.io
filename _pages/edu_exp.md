@@ -11,6 +11,7 @@ _Ph.D. Candidate in Mechanical Engineering, expected to graduate in Jun. 2026_
 :round_pushpin: Evanston, IL, USA
 * Advisor: Dr. Wei Chen
 * Doctoral Cluster in Predictive Science and Engineering Design ([PSED](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/))
+* Kellogg Certificate Program on Management for Ph.D.
 * Dissertation: _Continuous Learning and Decision-Making For the Digital Twin of Engineering Systems_
 
 ## National Taiwan Univeristy (NTU) (Sep. 2018 - Aug. 2020)
