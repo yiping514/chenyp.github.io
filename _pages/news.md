@@ -13,7 +13,7 @@ Yi-Ping's first-authored paper is selected as the Outstanding (Best) Paper Award
 The paper titled "Real-time decision-making for digital twin in additive manufacturing with model predictive control using time-series deep neural networks" is selected as the Outstanding Paper Award in Manufacturing System - —the only paper to receive this prestigious honor among ~200 submissions. Check out our paper [here](https://yiping514.github.io/chenyp.github.io/publications/2025-03-29-JMS-MPC_DED)
 
 
-<img src="https://yiping514.github.io/chenyp.github.io/images/namrc_award.jpeg">
+<img src="https://yiping514.github.io/chenyp.github.io/images/namrc_award.jpg">
 
 
 
