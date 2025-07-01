@@ -25,8 +25,15 @@ I was working at <span style="color:green">**National Chung-Shan Institute of Sc
 
 I received my M.S. Degree from the MechE Department in National Taiwan University in 2020. As a part of <span style="color:blue">**S**</span>ystem <span style="color:blue">**O**</span>ptimization <span style="color:blue">**LAB**</span>oratory ([SOLAB](https://solab-ntu.github.io/)), I started to build my knowledge in design optimization, design under uncertainty, and data-driven design. Initially, we were developing an autonomous bus from scratch, and I was in charge of the failure systems. However, as we moved on, we realized that the model of the vehicle is the core of this system, while we are still far away from calibrating it. Therefore, I started to work on the excitation and estimation of uncertain parameters in the vehicle as my master’s thesis. It was not an easy research since I had to build a vehicle model in Simulink (it took me 6 months!) and developed a series of methods. Well, I'm glad these efforts paid back -- I published a journal paper for the first time of my life, and won 3 huge master thesis awards, which likely became the most important piece of my Ph.D. application package. Anyway, I enjoyed the life, the people, the advisor, and the research environment here. It was a pleasant journey. 
 
+:mortar_board: I received my B.S. Degree in MechE!
+------
 
-🎮: Hobbies
+I received my B.S. Degree in the MechE Department in National Cheng Kung University in 2018 with the highest honor Phi Tau Phi. Initially, I was a nerd, a person who only cared about grades and ranking but ignored all the people around me. I ended up with a perfect ranking in the first three semesters but with no friends. Decided not to live a life like this, I dedicated myself into several student associations, trying to improve the academic atmosphere and bringing more resources to the department that allow students to pursue a different careers. During the year when I was the president of the Student Association of Mechanical Engineering, I funded the Robotics Club with Syntec Corp. and the Motorcycle Club with Kymco Corp. to support student to participate in technical competitions. The leadership positions allowed me to learn how to lead people with purpose, negotiation strategies, and fund-raising skills. 
+
+On the academic end, I was part of the Creative Mechanism Design & Education Laboratory, where I completed my undergraduate thesis on a novel design of integrated planetary gear reduction with motor rotor for electrical vehicles. 
+
+
+🎮 Hobbies
 ------
 Outside of research, I enjoy...
 * Sitcoms: Friends, The Big Bang Theory, How I Met Your Mother, Modern Family, Brooklyn 99.
