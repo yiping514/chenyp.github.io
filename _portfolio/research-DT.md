@@ -1,5 +1,5 @@
 ---
-title: "Digital Twin"
+title: "AI-Driven Digital Twin"
 excerpt: "<br/><img src='https://yiping514.github.io/chenyp.github.io/images/DT.svg'>"
 collection: portfolio
 ---
@@ -16,7 +16,8 @@ Digital Twin research focuses on creating virtual replicas of physical systems, 
 
 [Karkaria, V., Tsai, Y. K., **Chen, Y. P.**, & Chen, W., "An Optimization-Centric Review on Integrating Artificial Intelligence and Digital Twin Technologies in Manufacturing", _Engineering Optimization_, 1-47 (2025).](https://yiping514.github.io/chenyp.github.io/publications/2025-01-02-EO-DT_review)
 
-
+### Conference Talk
+[**Chen, Y.-P.**, Karkaria, V., Tsai, Y.-K., Rolark, F., Quispe, D., Gao, R. X., Cao, J., & Chen, W., "Real-time decision-making for Digital Twin in additive manufacturing with Model Predictive Control using time-series deep neural networks" _North American Manufacturing Research Conference 53_, Greenville, SC, USA'](https://yiping514.github.io/chenyp.github.io/talks/2025-06-NAMRC)
 
 
 
