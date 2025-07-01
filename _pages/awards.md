@@ -40,7 +40,7 @@ Awarded to the top 10% students in the class every once a year.
 * **2023 NSF Fellowship Award for the Traveling Grant to 2nd IACM MMLDE-CSET conference**
 
 ## Service Awards
-* **2025 Inaugural Mentorship Award**, Department of Mechanical Engineering, NU \\
+* **2025 Mentorship Award**, Department of Mechanical Engineering, NU \\
  This award recognizes students who have distinguished themselves through mentorship of more junior PhD students, MS students, undergraduates, or high school students.
 * **2020 Outstanding TA** (Unofficial), _NTU_ \\
 Recognized as an outstanding TA and be invited as a speaker at the TA workshop.

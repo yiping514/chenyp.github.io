@@ -5,12 +5,26 @@ permalink: /news/
 author_profile: true
 ---
 
-Yi-Ping is awarded the Inaugural Mentorship Award by the Department Mechanical Engineering at Northwestern University!
+Yi-Ping's first-authored paper is selected as the Outstanding (Best) Paper Award in Manufacturing Systems at NAMRC 53!
 =========
+
+> Jun. 26, 2025
+
+The paper titled "Real-time decision-making for digital twin in additive manufacturing with model predictive control using time-series deep neural networks" is selected as the Outstanding Paper Award in Manufacturing System - —the only paper to receive this prestigious honor among ~200 submissions. Check out our paper [here](https://yiping514.github.io/chenyp.github.io/publications/2025-03-29-JMS-MPC_DED)
+
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/namrc_award.jpeg">
+
+
+
+Yi-Ping is awarded the Mentorship Award by the Department Mechanical Engineering at Northwestern University!
+=========
+
+> Jun. 06, 2025
 
 Nominated by Professor Wei Chen, Yi-Ping is awarded the Mentorship Award by the Department. The M.E. Department recognizes his effort in mentoring prospective Ph.D. students for their doctoral study applications, mentorship on junior graduate students and undergraduate students, and dedication in helping incoming Ph.D. students for smooth transitions. 
 
-> Jun. 06, 2025
+
 
 
 Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral Fellowship by the Department of Mechanical Engineering at Northwestern University!
