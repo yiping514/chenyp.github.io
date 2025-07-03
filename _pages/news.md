@@ -24,7 +24,7 @@ Yi-Ping is awarded the Mentorship Award by the Department Mechanical Engineering
 
 Nominated by Professor Wei Chen, Yi-Ping is awarded the Mentorship Award by the Department. The M.E. Department recognizes his effort in mentoring prospective Ph.D. students for their doctoral study applications, mentorship on junior graduate students and undergraduate students, and dedication in helping incoming Ph.D. students for smooth transitions. 
 
-
+<img src="https://yiping514.github.io/chenyp.github.io/images/mentorship_award.JPG">
 
 
 Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral Fellowship by the Department of Mechanical Engineering at Northwestern University!
@@ -34,7 +34,7 @@ Yi-Ping is selected as one of the recipients of the Martin Outstanding Doctoral 
 
 Nominated by Professor Wei Chen and Professor Jian Cao, Yi-Ping is selected as one of the four recipients of the Martin Outstanding Doctoral Fellowship. The Martin Fellowship recognizes mid-career Ph.D. candidates for their outstanding scholarly and research achievements in mechanical engineering and encourage these young researchers to establish themselves as future leaders in their respective fields. Fellowship selectios were made by the ME faculty Committee of Graduate Studies. 
 
-
+<img src="https://yiping514.github.io/chenyp.github.io/images/martin_fellowship.JPG">
 
 
 Yi-Ping has been accepted into the 2025 Management for PhDs Certificate Program offered by Kellogg School of Management. 
