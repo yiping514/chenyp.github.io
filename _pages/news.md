@@ -5,6 +5,20 @@ permalink: /news/
 author_profile: true
 ---
 
+Yi-Ping completed the Management for Ph.D. Certificate Program offered by The Graduate School at Northwestern and Kellogg School of Management!
+=========
+
+> Aug. 05, 2025
+
+The Graduate School has partnered with the Kellogg School of Management to offer a certificate program taught by Kellogg faculty that will equip promising post-candidacy doctoral students with the necessary business and leadership skills such as managing and leading teams and budgets, communicating with business-oriented colleagues, and surmounting the hurdles associated with the commercialization of research. This program offers doctoral students to expose to these situations before entering academia or other industries. Yi-Ping was very lucky to get admitted and finished the program. This will be a huge plus to his mentorship, managing skills, and diverse experience. 
+
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/MFP.jpg">
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/MFP2.jpg">
+
+
+
 Yi-Ping's first-authored paper is selected as the Outstanding (Best) Paper Award in Manufacturing Systems at NAMRC 53!
 =========
 
