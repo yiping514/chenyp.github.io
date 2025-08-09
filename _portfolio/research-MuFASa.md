@@ -16,3 +16,5 @@ Adaptive sampling in multi-fidelity research is crucial because it strategically
 
 ### Conference Talks
 [**Chen, Y. P.**, Wang, L., Comlek, Y., & Chen, W., "Data Fusion of Multi-fidelity Systems via Latent Variable Gaussian Process for Active Learning Applications." _2nd ICMA MMLDE-CSET_, Sep. 23, 2023, El Paso, Texas, USA](https://yiping514.github.io/chenyp.github.io/talks/2023-09-23-MMLDECSET)
+
+[**Chen, Y. P.**, Wang, L., Comlek, Y., & Chen, W., "A Unified Adaptive Sampling Framework for Multi-Fidelity Modeling and Bayesian Optimization via Latent Variable Gaussian Process", _Society of Engineering (SES)_, Oct. 08, 2023, Minneapolis, Minnesota, USA](https://yiping514.github.io/chenyp.github.io/talks/2023-10-08-SES)
