@@ -16,8 +16,10 @@ Receved for outstanding research potential and academic performance. It covers s
 Received as I got accepted by Northwestern. It provided to sponser outstanding Ph.D. applicants for their 1st. 
 
 ## Outstanding Research Awards
+* **2025 Paper of Distinction**, _Design Automation Conference (DAC), IDETC-CIE 2025_ \\
+My Co-authored paper was selected as one of the 10 Paper of Distinctions out of 103 submissions. 
 * **2025 Outstanding Paper Award in Manufacturing Systems**, _North American Manufacturing Research Conference (NAMRC 53)_\\
-The only paper selected in Manufacturing Systems out of 270+ submissions.
+My first-authored paper was the only paper selected in Manufacturing Systems out of 270+ submissions.
 * **2021 17th HIWIN Master's Thesis Award, Honorable Mention**, _HIWIN Corp._ \\
 Received this award with USD $3500. This is the highest master's thesis award in the M.E. field in Taiwan. 
 * **2020 Matlab Research Competition, Best Paper Award**, _Mathworks_ \\
@@ -35,6 +37,7 @@ Awarded to the top 1% students in academic performance from each department.
 Awarded to the top 10% students in the class every once a year.
 
 ## Conference Traveling Grant
+* **2025 Traveling Award for IDETC-CIE (Anaheim)**
 * **2025 NSF Fellowship Award for the Traveling Grant to NAMRC 53 (Greenville)**
 * **2025 Fellowship Award for the Traveling Grant to USNCCM 18 conference (Chicago)**
 * **2023 NSF Fellowship Award for the Traveling Grant to 2nd IACM MMLDE-CSET conference (El Paso)**
