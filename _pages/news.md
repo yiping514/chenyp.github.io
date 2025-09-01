@@ -5,6 +5,33 @@ permalink: /news/
 author_profile: true
 ---
 
+Yi-Ping and Gourav wins First Place in the 2025 ASME IDETC-CIE Student Hackathon
+==========
+
+> Aug. 16, 2025
+
+Yi-Ping and Gourav teamed up to win the 2025 ASME IDETC-CIE Student Hackathon on the ntop problem. The performance is evaluated based on surrogate model accuracy, inverse design quality, and technical presentations. They fully utilized the active learning perspective in both sampling and optimization, allowing the design window to be shrinked and identify a better design. 
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/hackathon.JPG">
+
+Yi-Ping and Gourav Wins the First Place in the 2025 ASME IDETC-CIE Student Hackathon Meme competition
+
+> Aug. 16, 2025
+
+The meme created by Yi-Ping and Gourav was selected as the winner of the meme competition by popularity votes. 
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/2025_Meme.PNG">
+
+
+Yi-Ping's co-authored paper is selected as one of the 10 "Paper of Distinction" by the Design Automation Conference (DAC) in 2025 ASME IDETC-CIE!
+=========
+
+> Aug. 16, 2025
+
+Yi-Ping's co-authored paper, led by Dr. Ying-Kuan Tsai titled "Multi-Generation Control Co-Design for Digital Twin-Enabled Systems With Deep Reinforcement Learning", was selected as one of the 10 "Paper of Distinction" out of 108 submissions. 
+
+
+
 Yi-Ping completed the Management for Ph.D. Certificate Program offered by The Graduate School at Northwestern and Kellogg School of Management!
 =========
 

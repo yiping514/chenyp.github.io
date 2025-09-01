@@ -52,8 +52,13 @@ Recognized as an outstanding TA and be invited as a speaker at the TA workshop.
 Awarded to students with sigificant contributions to the campus. I received this award for my services in student organizations. I was also the representitive of Tainan City. 
 
 ## Engineering Competitions
+* **1st Place, 2025 ASME IDETC-CIE Student Hackathon**, _ASME IDETC-CIE_ \\
+Winning the student hackathon award on the ntop problem, teamed up with Gourav Kumbhojkar, evaluated by surrogate model accuracy, inverse design quality, and technical presentation. 
 * **2018 National Electric Vehicle Innovation Design and Construction Competition: 2nd in Racing, 3rd in Technical Report**
 
 ## Others
 * **2023 Leon M. Keer and Family Fellowship**, _Department of MechE, NU_ \\
 A scholarship of $2500 to support family needs.
+
+* **1st Place, 2025 ASME IDETC-CIE Student Hackathon Meme Award**, _ASME IDETC-CIE_ \\
+Won the Meme popularity award by votes. 
