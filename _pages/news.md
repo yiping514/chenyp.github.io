@@ -15,6 +15,7 @@ Yi-Ping and Gourav teamed up to win the 2025 ASME IDETC-CIE Student Hackathon on
 <img src="https://yiping514.github.io/chenyp.github.io/images/hackathon.JPG">
 
 Yi-Ping and Gourav Wins the First Place in the 2025 ASME IDETC-CIE Student Hackathon Meme competition
+=========
 
 > Aug. 16, 2025
 
