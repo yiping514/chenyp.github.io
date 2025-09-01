@@ -59,6 +59,5 @@ Winning the student hackathon award on the ntop problem, teamed up with Gourav K
 ## Others
 * **2023 Leon M. Keer and Family Fellowship**, _Department of MechE, NU_ \\
 A scholarship of $2500 to support family needs.
-
 * **1st Place, 2025 ASME IDETC-CIE Student Hackathon Meme Award**, _ASME IDETC-CIE_ \\
 Won the Meme popularity award by votes. 
