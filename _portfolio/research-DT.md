@@ -11,7 +11,7 @@ Digital Twin research focuses on creating virtual replicas of physical systems, 
 
 ### Journal Articles
 
-[Karkaria, V., Lee, D., **Chen, Y.-P.**, Yu, Y. & Chen, W., &quot;An Attention-Based Spatio-Temporal Neural Operator for Evolving Physics. &quot; <i>IOP Machine Learning: Science and Technology<i>, Nov. 2025; 6 045036.]
+[Karkaria, V., Lee, D., **Chen, Y.-P.**, Yu, Y. & Chen, W., &quot;An Attention-Based Spatio-Temporal Neural Operator for Evolving Physics. &quot; <i>IOP Machine Learning: Science and Technology<i>, Nov. 2025; 6 045036.](https://iopscience.iop.org/article/10.1088/2632-2153/ae1277)
 
 [**Chen, Y. P.**, Tsai, Y.-K., Karkaria, V., & Chen, W., &quot;Uncertainty-Aware Digital Twins: Robust Model Predictive Control Using Time-Series Deep Quantile Learning. &quot; _ASME Journal of Mechanical Design, Special Issue: Data Driven Design under Uncertainty_, February 2026; 148(2): 021702.](https://yiping514.github.io/chenyp.github.io/publications/2025-08-05-JMD-RMPC)
 
