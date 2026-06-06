@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # :mortar_board: Education
-## Northwestern University (Sep. 2022 - Present)
-_Ph.D. Candidate in Mechanical Engineering, expected to graduate in Jun. 2026_ 
+## Northwestern University (Sep. 2022 - Jun. 2026)
+_Ph.D. in Mechanical Engineering_ 
 :round_pushpin: Evanston, IL, USA
 * Advisor: Dr. Wei Chen
 * Doctoral Cluster in Predictive Science and Engineering Design ([PSED](https://www.mccormick.northwestern.edu/predictive-science-engineering-design/))
