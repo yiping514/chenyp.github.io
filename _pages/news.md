@@ -5,6 +5,19 @@ permalink: /news/
 author_profile: true
 ---
 
+Yi-Ping defended his Ph.D. dissertation
+==========
+
+> Apr. 22, 2026
+
+Yi-Ping successfully defended his Ph.D. dissertation, titled "Continuous Learning and Decision-Making for the Digital Twin of Engineering Systems". This dissertation exam is approved by his committee members Dr. Wei Chen (Chair), Dr. Jian Cao, Dr. Todd Murphey, Dr. Daniel Apley (IEMS), and Dr. Robert X. Gao (Case Western). 
+
+
+
+<img src="https://yiping514.github.io/chenyp.github.io/images/defense.jpg">
+
+
+
 Yi-Ping and Gourav wins First Place in the 2025 ASME IDETC-CIE Student Hackathon
 ==========
 
