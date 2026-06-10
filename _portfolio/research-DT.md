@@ -1,15 +1,17 @@
 ---
-title: "AI-Driven Digital Twin"
+title: "Uncertainty-Aware Real-Time Decision-Making in Digital Twins"
 excerpt: "<br/><img src='https://yiping514.github.io/chenyp.github.io/images/DT.svg'>"
 collection: portfolio
 ---
 
 <img src='https://yiping514.github.io/chenyp.github.io/images/DT.svg'>
 
-Digital Twin research focuses on creating virtual replicas of physical systems, processes, or objects that enable real-time simulation, monitoring, and analysis. By integrating data from sensors, IoT devices, and advanced analytics, digital twins provide a dynamic, data-driven approach to understanding and optimizing complex systems. My research centers on leveraging Digital Twin technology for system design, performance optimization, and lifecycle management, with an emphasis on enhancing decision-making and predictive capabilities. Through the integration of AI, machine learning, and real-time data, I aim to develop innovative solutions that bridge the gap between physical and digital domains, driving efficiency and innovation in engineering and beyond.
+Digital Twin research not only focuses on creating virtual replicas of physical systems, but also enabling the bi-directionald interaction between the physical and the virtual counterpart. By integrating data from sensors, IoT devices, and advanced analytics, Digital Twins provide a dynamic, data-driven approach to understanding and optimizing complex systems. This stream of research focuses on leveraging Digital Twin technology for system design, performance optimization, and lifecycle management, with an emphasis on enhancing decision-making and predictive capabilities. Through the integration of AI, machine learning, uncertainty quantification, and real-time data, I aim to develop innovative solutions that bridge the gap between physical and digital domains, positioning Digital Twin as an trustworthy and intelligent learning systems that offer robust, real-time decision supports. 
 
 
 ### Journal Articles
+
+
 
 [Karkaria, V., Lee, D., **Chen, Y.-P.**, Yu, Y. & Chen, W., &quot;An Attention-Based Spatio-Temporal Neural Operator for Evolving Physics. &quot; <i>IOP Machine Learning: Science and Technology<i>, Nov. 2025; 6 045036.](https://iopscience.iop.org/article/10.1088/2632-2153/ae1277)
 
