@@ -2,7 +2,7 @@
 title: "ARCO-BO: Adaptive Resource-aware COllaborative Bayesian Optimization for Heterogeneous Multi-Agent Design"
 collection: publications
 category: manuscripts
-permalink: /publications/2026-03-21-roadmap
+permalink: /publications/2026-03-09-JMD-ARCOBO
 excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/JMD_ARCOBO.png'>"
 date: 2026-03-09
 venue: 'Journal of Mechanical Design'
@@ -20,7 +20,7 @@ To address these limitations, we introduce Adaptive Resource-Aware Collaborative
 
 Keywords: _Bayesian optimization, collaborative optimization,  resource-aware optimization, multi-agent systems, task similarity_
 
-<img src="https://yiping514.github.io/chenyp.github.io/publications/JMD_ARCOBO.png" alt="The illustration of two agents collaborating with consensus.">
+<img src="https://yiping514.github.io/chenyp.github.io/images/JMD_ARCOBO.png" alt="The illustration of two agents collaborating with consensus.">
 
 
 
