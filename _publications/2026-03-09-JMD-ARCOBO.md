@@ -2,7 +2,7 @@
 title: "ARCO-BO: Adaptive Resource-aware COllaborative Bayesian Optimization for Heterogeneous Multi-Agent Design"
 collection: publications
 category: manuscripts
-permalink: /publications/2026-03-09-JMD-ARCOBO
+permalink: /publications/2026-03-21-roadmap
 excerpt: "<img src='https://yiping514.github.io/chenyp.github.io/images/JMD_ARCOBO.png'>"
 date: 2026-03-09
 venue: 'Journal of Mechanical Design'
